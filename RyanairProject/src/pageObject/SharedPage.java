@@ -14,7 +14,7 @@ public class SharedPage extends BasePage {
 	@FindBy(css = "[aria-label='Log In'] .header-menu-item__title.ng-star-inserted")
 	private WebElement logInBtn;
 
-	@FindBy(css = ".cookie-popup-with-overlay__button")
+	@FindBy(css = "[data-ref=\"cookie.accept-all\"]")
 	private WebElement acceptCookies;
 
 	@FindBy(css = "[name='email'].b2.date-placeholder")
