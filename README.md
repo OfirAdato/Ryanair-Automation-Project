@@ -10,9 +10,14 @@
 
 This repository contains a comprehensive automated testing project built with Java, Selenium and TestNG,. 
 The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
-
+<h2> <b>My Automation In Action</b></h2>
+<BR>
+<video width="390" height="250" autoplay muted>
+<source src="automation_project.mp4" type="video/mp4">
+<source src="movie.ogg" type="video/ogg">
+</video>	
 <p>
-  <img src="RyanairProject/ScreenShots/tc_05.jpg" width="70%" title="Example for screenshot on failure"  />
+  <img src="RyanairProject/ScreenShots/tc_05.jpg" width="40%" title="Example for screenshot on failure"  />
 </p>
 
 ## 📑 Technologies & Skill & Features
