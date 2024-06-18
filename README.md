@@ -1,5 +1,4 @@
-<a href="https://www.automation.co.il">
-    <img src="https://automation.co.il/wp-content/uploads/2020/06/cropped-%D7%94%D7%9E%D7%9B%D7%9C%D7%9C%D7%94-%D7%9C%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%A6%D7%99%D7%94.png" alt="המכללה לאוטומציה" title="המכללה לאוטומציה" align="right" height="60" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flobbymap.org%2Fcompany%2FRyanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b&psig=AOvVaw3hhgEEf_yCUSKc3Pajnmjg&ust=1718807871675000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODPpbuw5YYDFQAAAAAdAAAAABAE" alt="Ryanair" title="Ryanair" align="right" height="60" />
 </a>
 
 # 💻 My Automation Project 
