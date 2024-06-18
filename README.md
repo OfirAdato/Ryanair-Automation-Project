@@ -4,13 +4,11 @@
 
 # 💻 My Automation Project 
 ✅ This is a testing automation project that tests a real site called: 
-"Ryanair Automation Project"
-
-![GitHub forks](https://img.shields.io/badge/Number%20Of%20Happy%20Students-1000+-blue) ⭐⭐⭐⭐⭐
+<br>"Ryanair Automation Project"
 
 ## 📖 Overview
 
-This repository contains a comprehensive automated testing project built with Java, TestNG, and Allure Reports. 
+This repository contains a comprehensive automated testing project built with Java, Selenium and TestNG,. 
 The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
 
 <p>
