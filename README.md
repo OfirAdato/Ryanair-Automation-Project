@@ -13,10 +13,11 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 <h2> <b>My Automation In Action</b></h2>
 <BR>
 <video width="390" height="250" autoplay muted>
-<source src="automation_project.mp4" type="video/mp4">
+<source src="RyanairProject/automation_project.mp4" type="video/mp4">
 <source src="movie.ogg" type="video/ogg">
 </video>	
 <p>
+    <h2> <b>Example for screenshot on failure</b></h2>
   <img src="RyanairProject/ScreenShots/tc_05.jpg" width="40%" title="Example for screenshot on failure"  />
 </p>
 
