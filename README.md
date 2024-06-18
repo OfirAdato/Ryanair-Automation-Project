@@ -3,9 +3,8 @@
 </a>
 
 # 💻 My Automation Project 
-✅ This is a testing automation demo project that tests a real site called: 
-www.automation.co.il
-- [x] This example is for the automation college students only (`המכללה לאוטומציה`)
+✅ This is a testing automation project that tests a real site called: 
+"Ryanair Automation Project"
 
 ![GitHub forks](https://img.shields.io/badge/Number%20Of%20Happy%20Students-1000+-blue) ⭐⭐⭐⭐⭐
 
