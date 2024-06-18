@@ -1,4 +1,4 @@
-    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Flobbymap.org%2Fcompany%2FRyanair-a5d7a3bef08fbf6bf8cfed1a532d6f1b&psig=AOvVaw3hhgEEf_yCUSKc3Pajnmjg&ust=1718807871675000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODPpbuw5YYDFQAAAAAdAAAAABAE](https://lobbymap.org/site//data/001/361/1361229.png)" alt="Ryanair" title="Ryanair" align="right" height="60" />
+    <img src="https://lobbymap.org/site//data/001/361/1361229.png" alt="Ryanair" title="Ryanair" align="right" height="60" />
 </a>
 
 # 💻 My Automation Project 
