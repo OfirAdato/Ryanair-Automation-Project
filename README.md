@@ -32,24 +32,19 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 ## 📖 Prerequisites
 
-- Write here your Prerequisites if exists.
-
-## 🚀 Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-    ```
+- Eclipse frame work.
+- Selenuim library.
+- TestNG library.
 
 ## 📁 Project Structure
 ```
-├───.settings
+├───ScreenShots
 ├───bin
-│   ├───pages
-│   └───tests
+│   ├───pageObject
+│   └───pageTest
 ├───src
-│   ├───pages
-│   └───tests
+│   ├───pageObject
+│   └───pageTest
 └───test-output
     ├───Default suite
     ├───junitreports
@@ -58,8 +53,5 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 ```
 
 Thanks for visiting my GitHub profile! 😊
-Gal Matalon 
-<p>
-  <img src="readme/gal-matalon.jpg" width="70%" title="גל מטלון - המכללה לאוטומציה"  />
-</p>
-https://www.automation.co.il
+Ofir Adato
+
