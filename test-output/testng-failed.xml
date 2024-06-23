@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="pageTest.FlightWithOutLOGIN">
+        <methods>
+          <include name="tc_03"/>
+          <include name="failedTest"/>
+          <include name="tc_07"/>
+          <include name="tc_04"/>
+          <include name="tc_05"/>
+          <include name="tc_02"/>
+          <include name="closeWeb"/>
+          <include name="tc_08"/>
+          <include name="tc_06"/>
+          <include name="tc_10"/>
+          <include name="openWeb"/>
+          <include name="tc_9"/>
+        </methods>
+      </class> <!-- pageTest.FlightWithOutLOGIN -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
