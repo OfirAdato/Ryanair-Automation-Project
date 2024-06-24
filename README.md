@@ -13,7 +13,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 <p>
     <h2> <b>Example for screenshot on failure</b></h2>
-  <img src="RyanairProject/ScreenShots/tc_05.jpg" width="40%" title="Example for screenshot on failure"  />
+  <img src="ScreenShots/tc_03.jpg" width="40%" title="Example for screenshot on failure"  />
 </p>
 
 ## 📑 Technologies & Skill & Features
